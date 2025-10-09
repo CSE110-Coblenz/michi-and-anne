@@ -1,4 +1,4 @@
-let musics2: string[] = ["hot cheetos", "takis"];
+let musics3: string[] = ["hot cheetos", "takis"];
 
-console.log(musics2);
+console.log(musics3);
 
