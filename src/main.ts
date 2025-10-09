@@ -1,3 +1,3 @@
-let snacks : string[] = ["crossiants", "dark chocolate", "hot cheetos", "takis"];
+let music : string[] = ["song1", "songdos"];
 
-console.log(snacks);
+console.log(music);
