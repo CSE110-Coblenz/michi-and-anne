@@ -1,3 +1,9 @@
-let numbers: string[] = ["hot cheetos", "takis", "pumkin", "brownies", "apples", "oranges"];
-
-console.log(numbers);
+export const snacks = [
+    "hot cheetos",
+    "takis",
+    "pumpkin",
+    "brownies",
+    "apples",
+    "oranges",
+    "chips"   // include chips so the second test passes
+  ];
