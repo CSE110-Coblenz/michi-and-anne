@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-let numbers: string[] = ["hot cheetos", "takis", "pumkin", "brownies"];
-=======
-let numbers: string[] = ["hot cheetos", "takis", "pumkin", "brownies", "apples"
-];
->>>>>>> feature/add-snacks1
+let numbers: string[] = ["hot cheetos", "takis", "pumkin", "brownies", "apples", "oranges"];
 
 console.log(numbers);
